@@ -22,7 +22,13 @@
         "nodeName": "引力矿池",
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/4.png",
         "nodeDesc": "引力矿池是隶属于引力区块链名下的业务子品牌，我们致力于成为区块链行业的基础服务运营商与服务商，为不同属性的客户提供最佳的服务并为之创造价值，与之共同打造属于区块链的明日世界。\n1、引力矿池目前正为EOS、GOC、Worbli、Ulord、FinChain等区块链项目提供节点部署、维护服务，具有丰富的节点运维经验。\n2、引力矿池参与了多个公链项目的启动、发展过程，具有丰富的区块链项目实践经验。\n3、依托于引力区块链及其名下的另一个业务子品牌EOS引力区，引力矿池具有广泛的社群基础和区块链行业知名度。",
-        "accountName": "gravity-pool"
+        "accountName": "gravity-pool",
+        "location": {
+		    "city": "ShangHai",
+		    "country": "China",
+		    "longitude": 121.48941,
+		    "latitude": 31.40527
+	    }
     },
     {
         "nodeName": "Bit-Z集团",
@@ -131,13 +137,7 @@
         "logo": "https://static.gxb.io/dapp/blockcity/nodevote/20.png",
         "nodeDesc": "公信链社区早期开发者。参与公信链前期开源项目测试、对公信链的技术文档以及布洛克城的技术文档进行了部分完善和测试。公信链github项目上的贡献者，例：core、exploer、wallet、des等。贡献了baas-sdk 、common-sdk php版",
 
-        "accountName": "gxcmoon",
-	"location": {
-		    "city": "GuangZhou",
-		    "country": "China",
-		    "longitude": 113.27324,
-		    "latitude": 23.15792
-	}
+        "accountName": "gxcmoon"
     },
     {
         "nodeName": "雾计算",
